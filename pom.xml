@@ -1,26 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RishabTeotiaInfogain 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
- 
-95
-50 92 GoogleCloudPlatform/appengine-try-java
- Code  Issues 1  Pull requests 1  Projects 0  Wiki  Security  Insights
-appengine-try-java/pom.xml
-@dpebot dpebot Auto-update dependencies.
-4992a32 on Feb 4
-@dpebot @tswast @ludoch @dansanderson
-115 lines (103 sloc)  3.67 KB
-    
 <!--
   Copyright 2016 Google Inc. All Rights Reserved.
   Licensed under the Apache License, Version 2.0 (the "License");
@@ -33,13 +11,14 @@ appengine-try-java/pom.xml
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
+
 <project>
   <modelVersion>4.0.0</modelVersion>
   <packaging>war</packaging>
   <version>1.0</version>
 
   <groupId>com.google.appengine.demos</groupId>
-  <artifactId>appengine-try-java</artifactId>
+  <artifactId>Hello</artifactId>
 
   <!-- Parent POM defines common plugins and properties. -->
   <parent>
@@ -132,15 +111,4 @@ appengine-try-java/pom.xml
     </plugins>
   </build>
 </project>
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
