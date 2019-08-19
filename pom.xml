@@ -19,12 +19,12 @@ limitations under the License.
   <packaging>war</packaging>
 
   <groupId>com.example.appengine-j8</groupId>
-  <artifactId>helloworld</artifactId>
+  <artifactId>Hello</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <!-- [START_EXCLUDE] -->
   <parent>                              <!-- Get parameters and allow bulk testing -->
-    <artifactId>getting-started-java</artifactId>
+    <artifactId>Hello</artifactId>
     <groupId>com.example</groupId>
     <version>1.0.0</version>
     <relativePath>../..</relativePath>
